@@ -1,0 +1,103 @@
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\appsettings.Development.json
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\appsettings.json
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\chatApi.exe
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\chatApi.deps.json
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\chatApi.runtimeconfig.json
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\chatApi.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\chatApi.pdb
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Dapper.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Humanizer.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\JetBrains.Annotations.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Json.More.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\JsonPointer.Net.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\JsonSchema.Net.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.AspNetCore.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.Modules.StructuredResponse.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.Modules.Translator.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\chat_api\ChatApi\chatApi\chatApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.AssemblyReference.cache
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.AssemblyInfoInputs.cache
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.AssemblyInfo.cs
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.CoreCompileInputs.cache
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.MvcApplicationPartsAssemblyInfo.cs
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.MvcApplicationPartsAssemblyInfo.cache
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.build.json
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.development.json
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.chatApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.build.chatApi.props
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.chatApi.props
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.chatApi.props
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.pack.json
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\scopedcss\bundle\chatApi.styles.css
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.Up2Date
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.dll
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\refint\chatApi.dll
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.pdb
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\chatApi.genruntimeconfig.cache
+F:\chat_api\ChatApi\chatApi\chatApi\obj\Debug\net8.0\ref\chatApi.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\appsettings.Development.json
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\appsettings.json
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\chatApi.exe
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\chatApi.deps.json
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\chatApi.runtimeconfig.json
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\chatApi.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\chatApi.pdb
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Dapper.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Humanizer.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\JetBrains.Annotations.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Json.More.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\JsonPointer.Net.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\JsonSchema.Net.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.AspNetCore.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.Modules.StructuredResponse.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\OpenAI.ChatGpt.Modules.Translator.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\new chat\chatApi\chatApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.AssemblyReference.cache
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.AssemblyInfoInputs.cache
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.AssemblyInfo.cs
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.CoreCompileInputs.cache
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.MvcApplicationPartsAssemblyInfo.cs
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.MvcApplicationPartsAssemblyInfo.cache
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.sourcelink.json
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.build.json
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.development.json
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.chatApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.build.chatApi.props
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.chatApi.props
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.chatApi.props
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\staticwebassets.pack.json
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\scopedcss\bundle\chatApi.styles.css
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.csproj.Up2Date
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.dll
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\refint\chatApi.dll
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.pdb
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\chatApi.genruntimeconfig.cache
+F:\new chat\chatApi\chatApi\obj\Debug\net8.0\ref\chatApi.dll
