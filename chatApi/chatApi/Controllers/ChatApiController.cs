@@ -4,7 +4,6 @@ using chatApi.Model.Common;
 using Dapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using static Dapper.SqlMapper;
 
 namespace chatApi.Controllers
 {
@@ -112,17 +111,17 @@ namespace chatApi.Controllers
         }
 
         [HttpGet(nameof(GetChatLogin))]
-        public async Task<Message<UserChatregistraion>> GetChatLogin(string email, string password)
+        public async Task<Message<List<UserChatregistraion>>> GetChatLogin(string email, string password)
         {
             //int Mode = 4;
-            var message = new Message<UserChatregistraion>();
+            Message<List<UserChatregistraion>> message = new Message<List<UserChatregistraion>>();
             var dbparams = new DynamicParameters();
             try
             {
                 dbparams.Add("Mode", 4);
                 dbparams.Add("email", email);
                 dbparams.Add("password", password);
-                message.Data = await Task.FromResult(_dapper.Get<UserChatregistraion>("Usp_ChatMessages", dbparams));
+                message.Data = await Task.FromResult(_dapper.GetAll<UserChatregistraion>("Usp_ChatMessages", dbparams));
             }
             catch (System.Exception ex)
             {
@@ -143,16 +142,19 @@ namespace chatApi.Controllers
 
 
         }
-        [HttpGet(nameof(GetChatUserData))]
-        public async Task<Message<List<UserChatregistraion>>> GetChatUserData(int id)
+
+
+        [HttpGet(nameof(GetChatUserdata))]
+        public async Task<Message<List<UserChatregistraion>>> GetChatUserdata(int id)
         {
+            //int Mode = 4;
             Message<List<UserChatregistraion>> message = new Message<List<UserChatregistraion>>();
             var dbparams = new DynamicParameters();
-
             try
             {
                 dbparams.Add("Mode", 5);
                 dbparams.Add("id", id);
+
                 message.Data = await Task.FromResult(_dapper.GetAll<UserChatregistraion>("Usp_ChatMessages", dbparams));
             }
             catch (System.Exception ex)
@@ -162,15 +164,16 @@ namespace chatApi.Controllers
             if (message.Data != null)
             {
                 message.IsSuccess = true;
-                message.ReturnMessage = "data found succesfull";
-
+                message.ReturnMessage = "data found Successful";
             }
             else
             {
                 message.IsSuccess = true;
-                message.ReturnMessage = "data not found succesfull";
+                message.ReturnMessage = "data found Unsuccessful";
             }
             return message;
+
+
 
         }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\new chat\\chatApi\\chatApi\\chatApi.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\gitbash\\ChatApi\\chatApi\\chatApi\\chatApi.csproj": {}
   },
   "projects": {
-    "F:\\new chat\\chatApi\\chatApi\\chatApi.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\gitbash\\ChatApi\\chatApi\\chatApi\\chatApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\new chat\\chatApi\\chatApi\\chatApi.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\gitbash\\ChatApi\\chatApi\\chatApi\\chatApi.csproj",
         "projectName": "chatApi",
-        "projectPath": "F:\\new chat\\chatApi\\chatApi\\chatApi.csproj",
-        "packagesPath": "C:\\Users\\gaura\\.nuget\\packages\\",
-        "outputPath": "F:\\new chat\\chatApi\\chatApi\\obj\\",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\gitbash\\ChatApi\\chatApi\\chatApi\\chatApi.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\gitbash\\ChatApi\\chatApi\\chatApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gaura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
